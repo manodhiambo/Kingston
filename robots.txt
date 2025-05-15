@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: /
+Disallow: /*?tingmenu=
+
+Sitemap: https://tingirie.com/sitemap_index.xml

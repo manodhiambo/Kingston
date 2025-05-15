@@ -1,0 +1,1379 @@
+@media screen and (min-width: 2050px) {
+    .header .container, footer .container, .copy .container { padding-left: 180px; padding-right: 180px; }
+    .container { max-width: 1600px; }
+    .social li a img { height: 21px; }
+    .social li { margin-right: 40px; }
+    .navigation-menu li a { font-size: 22px; }
+    .header .header-logo { height: 130px; }
+    .button span,.border-button span { font-size: 20px; }
+   .button,.border-button { padding: 20px 37px; }
+   .banner .banner-content .banner-text p { font-size: 28px; }
+   .banner .banner-content .banner-text .title .word .char { font-size: 95px; line-height: 105px; }
+   .banner { border-bottom-left-radius: 120px; border-bottom-right-radius: 120px; }
+   .banner .swiper-pagination-bullet { width: 11px; height: 11px; margin: 10px 25px; }
+   .banner .swiper-pagination-bullet.swiper-pagination-bullet-active:before { width: 32px; height: 32px; }
+   .scroll-down { width: 65px; }
+   .about-sec .trip-logo { width: 200px; }
+   .sub-title { font-size: 70px; }
+   .about-sec .sub-title { margin-bottom: 40px; }
+   body p,.eventsmoredetail { font-size: 24px; line-height: 1.4; margin-bottom: 25px; }
+   .logo-icon-right { width: 350px; }
+   .logo-icon-left { width: 280px; }
+   .exp-slider .slide { width: 500px; }
+   .exp-slider .slide.big { height: 720px; }
+   .exp-slider .slide.small { height: 450px; }
+   .reservation-sec .reservation-bx .sub-title { font-size: 55px; }
+   .select-form-grp .form-control,
+   .form-control { font-size: 18px; }
+   .reservation-sec .reservation-bx .wrapper-dropdown { width: 650px; font-size: 18px }
+   .button img,.button .svg,.border-button img,.border-button .svg { width: 15px; margin-left: 11px; height: auto; }
+   .select-form-grp .down-arrow { width: 16px }
+   .event-place li { padding: 20px 60px }
+   .py-80 { padding-top: 140px; padding-bottom: 140px; }
+   .feature-bx { margin-bottom: 150px; }
+   .order-sec .event-place-name { font-size: 40px; }
+   .logo-grp a img { width: 120px; }
+   .logo-grp a img.talabat-logo { width: 90px; }
+   .instagram-section .title { font-size: 26px; margin-bottom: 60px; }
+   .insta-img-list li a { height: 390px; }
+   footer .footer-logo-grp .footer-logo { width: 120px; }
+   footer .footer-logo-grp .footer-logo { padding-right: 40px; margin-right: 40px; }
+   footer .footer-logo-grp .footer-subtitle { font-size: 22px; line-height: 1.5; }
+   footer .note-text { margin-top: 18px; font-size: 18px; }
+   footer .input-group .border-button { font-size: 19px; padding: 18px 35px; border-radius: 70px !important }
+   .specification-menu li a { font-size: 18px; }
+   footer .footer-row { padding-top: 70px; }
+   footer .footer-title { font-size: 21px; }
+   footer .footer-div .quick-links li a,
+   footer .footer-div p,footer .footer-div .time-list li { font-size: 19px; }
+   .right-text,.right-text span,.design-text,.design-text a { font-size: 14px; }
+   .header.active .navigation-menu li a { font-size: 20px; }
+   .exp-slider .slide { margin-right: 40px; }
+   .select-form-grp .form-control { padding: 12px 0px; }
+   .menu-card { padding: 110px 110px; }
+   .menu-slider-img { border-bottom-right-radius: 120px; }
+   .order-sec .order-city-bx { padding: 60px 20px; }
+   .button,.border-button { border-radius: 70px; }
+   .experience-sec .sub-title { font-size: 60px; }
+   .header .button { padding: 16px 30px; }
+   .header .button span { font-size: 18px }
+   .award-grp { padding: 0px 20px; }
+   .form-control::-webkit-input-placeholder { font-size: 16px; }
+   .form-control::-moz-placeholder { font-size: 16px; }
+   .form-control:-ms-input-placeholder { font-size: 16px; }
+   .form-control::-ms-input-placeholder { font-size: 16px; }
+   .form-control::placeholder { font-size: 16px; }
+   .mob_wa { width: 60px; height: 60px; }
+   .whatpp-grp { right: 45px; bottom: 40px; }
+   .mob_wa img { width: 38px }
+   .in-banner { height: 720px; }
+   .in-banner .banner-text p { font-size: 30px; }
+   .in-banner .banner-text .title { font-size: 96px; }
+   .in-banner .banner-img:before { height: 370px; }
+   .our-story-sec .section-grp p { font-size: 26px; }
+   .our-story-sec .video-div { height: 770px; }
+   .quality-bx .icon { margin-bottom: 35px; }
+   .quality-bx .quality-title { font-size: 24px; }
+   .drink-bx .drink-text .title { font-size: 70px; }
+   .irie-people-sec .people-img { margin-top: 60px; }
+   .irie-people-sec .people-img { width: 100%; height: 700px; }
+   .testi-bx .testi-text .testi-name { font-size: 20px; }
+   .testi-bx .testi-text .testi-title { font-size: 26px; }
+   .news-sec .sub-title2 { margin-bottom: 80px; }
+   .about-sec .award-grp .sub-title { font-size: 24px; }
+   .about-sec.py-80 { padding-top: 110px; padding-bottom: 30px; }
+   .section-title-grp p { font-size: 24px; }
+   .exp-slider .slide .overlay-div .overlay-text .event-title { font-size: 45px; }
+   .exp-slider .slide .overlay-div .overlay-text .event-location { font-size: 16px; padding: 9px 18px 8px 18px; }
+   .testi-bx .name-grp-cont .name-grp .testi-img,
+   .ting-reviews .ting-img { width: 65px; height: 65px; }
+   .testi-bx .name-grp-cont .name-grp .testi-name,
+   .ting-reviews .ting-review-text .ting-name { font-size: 22px; }
+   .testi-bx .name-grp-cont .name-grp .months { font-size: 16px; }
+   .testi-bx p { font-size: 19px; }
+   .testi-bx .star-div img,
+   .ting-reviews .ting-review-text .star-div img { width: 20px; }
+   .ting-reviews .ting-review-text .star-div span { font-size: 19px; }
+   .ting-reviews .ting-review-text .star-div { margin: 13px 0px 12px 0px; }
+   .testi-cont .swiper-button-prev { width: 35px; height: 35px; left: -50px; }
+   .testi-cont .swiper-button-next { width: 35px; height: 35px; right: -50px; }
+   .testi-bx .name-grp-cont .name-grp .testi-img { margin-right: 15px; }
+   .testi-bx { padding: 35px 35px 15px 35px; }
+   .ting-reviews .ting-review-text p { font-size: 17px; }
+   .ting-reviews .ting-review-text p img { height: 22px; }
+   .ting-reviews .ting-review-text .review-btn { font-size: 17px; padding: 7px 20px; }
+   .ting-reviews .ting-review-text .review-btn span { width: 30px; height: 30px; }
+   .header.active .navigation-menu li,
+   .navigation-menu li { margin-right: 35px; margin-left: 35px; }
+   .secret-of-food .img-cont { height: 640px; }
+   .section-title-grp { margin-bottom: 70px; }
+   .menu-section { margin-top: 110px }
+   footer .awards-logo img { width: 300px; }
+   .menu-list-grp .menu-category { font-size: 40px; }
+   .menu-list li { font-size: 26px; }
+   .menu-list li ul.menu-grp li,
+   .menu-list li p { font-size: 20px; }
+   .menu-list li { margin-bottom: 30px; }
+   .gallery-row li a { height: 470px; }
+   .gallery-row li a img.insta-icon { width: 34px; }
+   .contcat-sec .title-grp img { height: 100px; }
+   .contcat-sec .title-grp .title { font-size: 50px; }
+   .contcat-sec .contcat-grp .con-title { font-size: 21px; margin-bottom: 20px; }
+   .contcat-sec .contcat-grp p,
+   .contcat-sec .contcat-grp a,
+   .contcat-sec .contcat-grp ul li,
+   .contcat-sec .contcat-grp ul li a { font-size: 22px; }
+   .contcat-sec .contcat-grp { margin-bottom: 35px; }
+   .location-icon img { width: 60px; }
+   .address-info .title { font-size: 30px; }
+   .address-info p { font-size: 19px; }
+   .address-info { width: 360px; padding: 20px 20px; }
+   .address-info a { font-size: 18px; }
+   .contcat-grp ul li .svg { width: 28px; }
+   .contcat-sec .title-grp { margin-bottom: 55px; }
+   .exp-location-grp .exp-location-title { font-size: 140px; }
+   .exp-location-grp .svg { height: 160px; margin-right: 25px; }
+   .exp-list>li { padding: 25px 0px; }
+   .exp-list>li .text-box p { font-size: 26px; }
+   .exp-list>li a.list-title { font-size: 36px; }
+   .exp-list>li .text-box { padding: 22px 0px 20px 0px }
+   .exp-list>li .text-box .button { margin-top: 18px; }
+   .exp-cont.mb { margin-top: 120px; }
+   .exp-out-cont { padding: 120px 120px; }
+   .experience-sec { padding: 140px 0px 140px 0px }
+   .video-img { width: 100%; height: 800px; }
+   .account-bx .insta-account-title { font-size: 24px; margin-bottom: 40px; }
+   .account-bx.abudabi { margin-top: 130px; }
+   .menu-list-home.exp-list>li a.list-title { font-size: 34px; }
+   .menu-list-home.exp-list>li a.list-title .icon { width: 26px; height: 26px; }
+   .event-list li .event-bx { height: 370px; }
+   .event-list li .event-bx .overlay-div .overlay-text .event-title { font-size: 32px; }
+   .right-w .button-cont { margin-top: 40px; }
+   .event-list li .event-bx .overlay-div .overlay-text .read-more-text { font-size: 14px; }
+   .order-city-bx .event-place-name { font-size: 26px; }
+   .event-place li .place-bx .place-icon { height: 70px; }
+   .event-place li .place-bx .event-place-name,
+   .event-place li .place-bx .number { font-size: 26px; }
+   .event-place li .place-bx .button { padding: 16px 30px; }
+   .order-city-bx .place-icon { height: 75px; }
+   .order-city-bx { padding: 35px 30px; }
+   .event-sec .sub-title.sub-title2 { font-size: 42px; }
+   .instagram-section { padding: 35px 0px; }
+   .instagram-section .insta-text li { font-size: 30px; }
+   .instagram-section .insta-text li:first-child { font-size: 34px; }
+   .contcat-sec { padding-bottom: 130px }
+   .menu-list-home>li .text-box .more-text { font-size: 20px; }
+   .pkg-row li .pkg-bx .night-title { font-size: 26px; }
+   .pkg-row li .pkg-bx { padding: 30px 10px; }
+   .pkg-dec { margin-bottom: 90px; }
+   .night-life-bx .when-bx span { font-size: 30px; }
+   .live-performance-bx:before { height: 700px; }
+   .live-performance-bx .logo-icon-left { width: 250px; bottom: 344px; }
+   .live-performance-bx .logo-icon-right { width: 250px; }
+   .ladies-night-menu .section-title-grp p { font-size: 24px; }
+   .ladies-night-menu .menu-grp .menu-title { font-size: 40px; }
+   .ladies-night-menu .menu-grp p { font-size: 24px; }
+   .book-table-bx .button { margin-top: 30px; margin-bottom: 40px; }
+   .sub-title.sub-title2 { margin-bottom: 35px; }
+   .book-table-bx .logo-icon-left,
+   .book-table-bx .logo-icon-right { width: 250px; }
+   .event-list li .event-bx .overlay-div .overlay-text .event-title { font-size: 36px; }
+   .menu-list-home.exp-list>li .text-box .menu-list li p { font-size: 20px; }
+   .menu-page .menu-list-home.exp-list>li .text-box .menu-desc-text p { font-size: 24px; }
+   .menu-page .menu-list-home.exp-list>li .text-box .menu-desc-text .menu-title,
+   .menu-page .menu-list-home.exp-list>li .text-box .menu-desc-text .menu-title span,
+   .menu-page .menu-list-home.exp-list>li .text-box .menu-list-grp .menu-category { font-size: 40px; }
+   .menu-page .menu-list-home.exp-list>li .text-box { padding: 50px 30px 0px 30px; }
+   .menu-page .menu-list-home.exp-list>li .text-box .menu-desc-text { margin-bottom: 40px; }
+   .menu-list-grp { margin-bottom: 20px; }
+   .menu-page .menu-list-home.exp-list>li .text-box .note { font-size: 22px; }
+   .menu-page .menu-list-home.exp-list>li { margin-bottom: 40px; }
+   .menu-page .section-title-grp { margin-bottom: 90px; }
+   .modal-dialog { max-width: 1030px; }
+   .book-modal .modal-body .reservation-bx .sub-title { font-size: 45px; }
+   .book-modal .close-btn { width: 20px; }
+   .wrapper-dropdown { font-size: 18px; }
+   .book-modal .close-btn { font-size: 22px; }
+   .catering-form .form-control::-webkit-input-placeholder { font-size: 20px }
+   .catering-form .form-control::-moz-placeholder { font-size: 20px }
+   .catering-form .form-control:-ms-input-placeholder { font-size: 20px }
+   .catering-form .form-control::-ms-input-placeholder { font-size: 20px }
+   .catering-form .form-control::placeholder { transition: var(--all-fast); font-size: 20px }
+   .catering-form .wrapper-dropdown { font-size: 20px; }
+   .catering-form .button { margin-top: 30px }
+   .subtitle3 { font-size: 40px; }
+   .catering-form .date .input-group-append .input-group-text .svg { width: 18px; }
+   .catering-form .form-group { margin-bottom: 60px; }
+   .what-no-grp ul li a { font-size: 17px; }
+   .what-no-grp ul li a .svg { width: 25px; }
+   .what-no-grp { width: 170px }
+   .testi-other-page { padding: 120px 0px 100px 0px; }
+   .speciality-sec,.eat-sec,.contcat-sec,.ladies-night-pkg { padding-top: 140px; padding-bottom: 140px; }
+   .pkg-dec { margin-bottom: 140px; }
+   .our-story-sec { padding-top: 140px; padding-bottom: 200px; }
+   .news-sec { padding-bottom: 140px; }
+   footer { padding-top: 110px; }
+   .error-page .error-bx .subtitle { font-size: 92px; }
+
+   }
+   
+   @media screen and (max-width: 1750px) 
+   {
+   .footer-div .button { padding: 15px 20px }
+   }
+   
+   
+   @media screen and (max-width: 1680px)
+    {
+    .banner .banner-content .banner-text .title .word .char { font-size: 63px; }
+   .banner .banner-content .banner-text p { font-size: 28px; }
+   .logo-icon-right { right: 50px; width: 220px; }
+   .logo-icon-left { left: 10px; width: 180px; }
+   .exp-slider .slide.big { height: 460px; }
+   .sub-title { margin-bottom: 80px; }
+   .event-sec .logo-icon-right { right: -90px }
+   .event-place li .place-bx .place-icon { height: 60px; }
+   .event-place li .place-bx .event-place-name,
+   .event-place li .place-bx .number { font-size: 20px; }
+   .insta-img-list li a { height: 260px; }
+   footer { padding-top: 70px; }
+   footer .footer-row { margin-top: 40px; padding-top: 40px; padding-bottom: 40px; }
+   .navigation-menu li,
+   .header.active .navigation-menu li { margin-left: 30px; margin-right: 30px; }
+   .horizontal-text span { font-size: 260px; }
+   .speciality-sec .logo-icon-right,
+   .speciality-sec .logo-icon-left { width: 170px; }
+   .news-sec { padding-bottom: 90px; }
+   .reservation-sec { margin: 100px auto 0px auto }
+   .py-80 { padding-top: 110px; padding-bottom: 110px }
+   .feature-bx { margin-bottom: 100px; }
+   .exp-slider .slide.small { height: 390px; }
+   .quality-bx .quality-icon img,
+   .quality-bx .quality-icon { height: 80px; }
+   .our-story-sec { padding: 110px 0px 200px 0px; }
+   .horizontal-text-cont { bottom: 60px; }
+   .in-banner .banner-text .title { font-size: 70px; }
+   .menu-page .menu-list-home.exp-list>li a.list-title { font-size: 45px; }
+   }
+   
+   @media screen and (max-width: 1600px) {}
+   
+   
+   @media screen and (max-width: 1500px) {
+   .py-80, .py-90 { padding-top: 90px; padding-bottom: 90px; }
+   .feature-bx { margin-bottom: 90px; }
+   .order-sec.py-80 { padding-top: 50px; }
+   .reservation-sec { margin-top: 80px; }
+   .header .header-logo { height: 130px; }
+   .navigation-menu li,.header.active .navigation-menu li { margin-left: 25px; margin-right: 25px; }
+   .header .container { width: 100%; max-width: 100%; padding-left: 40px; padding-right: 40px }
+   .about-sec.py-80 { padding-top: 60px; padding-bottom: 20px; }
+   .in-banner { height: 600px; }
+   .in-banner .banner-text .title { font-size: 60px; }
+   .in-banner .banner-text { margin-top: 60px; }
+   .our-story-sec { padding: 90px 0px 180px 0px; }
+   .horizontal-text-cont { bottom: 70px; }
+   .our-story-sec .section-grp p { font-size: 20px; }
+   .horizontal-text span { font-size: 210px; }
+   .quality-bx .icon { height: 80px; }
+   .testi-bx .testi-text .testi-title { font-size: 20px; }
+   .irie-people-sec .people-img { margin-bottom: -220px }
+   .eat-sec .logo-icon-right { width: 130px; }
+   .eat-sec .logo-icon-left { width: 150px; }
+   .eat-sec .logo-icon-bottom { width: 150px; }
+   .banner .banner-content .banner-text p { font-size: 22px; margin-bottom: 20px; }
+   .secret-of-food.py-80 { padding-bottom: 110px; padding-top: 30px; }
+   .what-sec.what-home-sec { padding: 70px 0px; }
+   .menu-section { margin-top: 70px; }
+   .order-sec.py-80 { padding-bottom: 50px; }
+   .footer-div .button span { font-size: 13px; }
+   .footer-div .button { padding: 13px 16px; }
+   footer .footer-title { margin-bottom: 22px; }
+   .menu-list li { font-size: 18px; }
+   .contcat-sec .contcat-grp .con-title { font-size: 16px; }
+   .exp-location-grp .exp-location-title { font-size: 100px; }
+   .exp-out-cont { padding: 80px 80px; }
+   .exp-list>li a.list-title { font-size: 28px; }
+   .exp-list>li a.list-title span.icon { width: 15px; }
+   .exp-list>li .text-box p { font-size: 18px; }
+   .event-sec .logo-icon-left { left: -110px; }
+   .event-sec .logo-icon-right { right: -140px; }
+   .instagram-section .insta-text li a { font-size: 32px; }
+   .instagram-section .insta-text li a .svg { width: 25px; margin-right: 15px; }
+   .testi-other-page { padding: 90px 0px 70px 0px; }
+   .book-table-bx .logo-icon-left,
+   .book-table-bx .logo-icon-right,
+   .live-performance-bx .logo-icon-right,
+   .live-performance-bx .logo-icon-left { width: 160px; }
+   .menu-page .section-title-grp { margin-bottom: 60px; }
+   .download-menu .logo-icon-right { width: 170px; }
+   .download-menu .logo-icon-left { width: 180px; }
+   .error-page .error-bx .error-title span { font-size: 230px; }
+   .error-page .error-bx .subtitle { font-size: 65px; margin-bottom: 5px; }
+   }
+   
+   
+   @media screen and (max-width: 1440px) {
+   .banner .banner-content .banner-text .title .word .char { font-size: 60px; line-height: 65px; }
+   .banner .banner-content .banner-text p { font-size: 22px; margin-bottom: 20px }
+   .header .header-logo { height: 100px; }
+   .logo-icon-right { width: 160px; }
+   .logo-icon-left { width: 130px; }
+   .menu-list li ul.menu-grp li { font-size: 16px; }
+   footer .footer-div .quick-links li a,
+   footer .footer-div p,
+   footer .footer-div .time-list li { font-size: 15px; }
+   .header .logo-icon { height: 45px; }
+   .header.active .header-logo { height: 50px; }
+   .about-sec p { width: 90% }
+   .py-80 { padding-top: 90px; padding-bottom: 90px; }
+   .pkg-dec { margin-bottom: 90px; }
+   .testimonial-sec.py-80 { padding-top: 80px; }
+   .reservation-sec { margin-top: 80px; }
+   .testi-cont .swiper-button-prev { left: -40px; }
+   .testi-cont .swiper-button-next { right: -40px; }
+   .about-sec .about-text .sub-title { margin-bottom: 30px; }
+   .reservation-bx { padding: 130px 0px; }
+   .sub-title { font-size: 45px; margin-bottom: 50px; }
+   .menu-card { padding: 50px 50px 50px 50px }
+   .section-title-grp { margin-bottom: 60px; }
+   .quality-bx .quality-text .quality-title { font-size: 28px; }
+   .about-sec .trip-logo { width: 130px; }
+   .exp-slider .slide .overlay-div .overlay-text .event-title { font-size: 30px; }
+   .secret-of-food .secret-text { padding-left: 20px; }
+   .order-sec.py-80 { padding-top: 30px; }
+   .secret-of-food.py-80 { padding-bottom: 90px; }
+   .quality-sec .logo-icon-left,
+   .quality-sec .logo-icon-right { width: 140px; }
+   footer .footer-title { margin-bottom: 20px; }
+   .gallery-row { grid-gap: 30px; }
+   .gallery-sec .section-grp { margin-bottom: 60px; }
+   footer .awards-logo img { width: 210px; }
+   .menu-list-grp .menu-category { margin-bottom: 22px; font-size: 28px; }
+   .menu-list li { font-size: 18px; margin-bottom: 20px; }
+   .menu-list li ul.menu-grp li,
+   .menu-list li p { font-size: 14px; }
+   .exp-out-cont { width: 80% }
+   .exp-out-cont { margin-top: -70px; }
+   .video-img { height: 550px; }
+   .instagram-section .insta-text li a { font-size: 32px; }
+   .instagram-section .insta-text li a .svg { width: 24px; margin-right: 14px; }
+   .instagram-section .insta-text li { font-size: 24px; }
+   .event-place li .place-bx .place-icon { height: 50px; }
+   .event-sec .sub-title.sub-title2 { font-size: 32px; }
+   .menu-list-home>li .text-box .more-text { font-size: 15px; }
+   .live-performance-bx { padding: 80px 0px; }
+   .menu-page .menu-list-home.exp-list>li a.list-title { font-size: 38px; }
+   .menu-page .menu-list-home.exp-list>li .text-box .menu-desc-text .menu-title,
+   .menu-page .menu-list-home.exp-list>li .text-box .menu-desc-text .menu-title span,
+   .menu-page .menu-list-home.exp-list>li .text-box .menu-list-grp .menu-category { font-size: 30px; }
+   .ladies-night-pkg .pkg-row { --bs-gutter-x: 25px; --bs-gutter-y: 25px; }
+   .address-info .title { font-size: 20px; }
+   .catering-form { padding-left: 30px; }
+   .speciality-sec,.eat-sec,.contcat-sec,.ladies-night-pkg { padding-top: 80px; padding-bottom: 80px; }
+   .irie-people-sec { margin-bottom: 230px; }
+   .news-cont .swiper-button-prev { left: -30px; }
+   .news-cont .swiper-button-next { right: -30px; }
+   .exp-location-grp .exp-location-title { font-size: 80px; }
+   .exp-cont.mb { margin-top: 40px; }
+   .input-group.footer-input span.wpcf7-form-control-wrap { width: 55%; }
+   .in-banner.error-page { padding: 120px 0px; }
+   .error-page .error-bx .error-title .error-img { width: 190px; }
+   .error-page .error-bx .error-title span { font-size: 210px; }
+   }
+   
+   
+   
+   @media screen and (max-width: 1366px) {
+   .container { max-width: 1200px; width: 100% }
+   .order-sec .order-row { --bs-gutter-x: 50px; }
+   .insta-img-list li a { height: 230px; }
+   footer .footer-div .quick-links li a,
+   footer .footer-div p,footer .footer-div .time-list li { font-size: 16px; }
+   footer .footer-row { padding-bottom: 10px; }
+   .border-button { padding: 13px 30px; }
+   .form-control::-webkit-input-placeholder { font-size: 14px; }
+   footer .footer-logo-grp .footer-subtitle { font-size: 16px; }
+   footer .input-group .border-button { font-size: 14px; }
+   .header .container,footer .container,.copy .container { padding-left: 30px; padding-right: 30px; }
+   footer .footer-logo-grp .footer-logo { width: 90px; }
+   /* .header.active .navigation-menu li { margin-right: 25px; margin-left: 30px; } */
+   .header.active .button { padding: 13px 23px; }
+   .banner { height: 85vh }
+   .banner .banner-content { width: 90% }
+   .exp-slider .slide.big { height: 470px; }
+   .exp-slider .slide.small { height: 370px; }
+   .about-sec .trip-logo { width: 120px; margin: 0px auto 10px auto; }
+   .about-sec.py-80 { padding-top: 50px; padding-bottom: 30px; }
+   .sub-title { font-size: 45px; }
+   .whatpp-grp { bottom: 50px; right: 35px; }
+   footer .footer-div .quick-links li a,
+   footer .footer-div p,
+   footer .footer-div .time-list li { font-size: 14px; }
+   .in-banner { height: 500px; }
+   .in-banner .banner-text p { font-size: 22px; margin-bottom: 5px; }
+   .in-banner .banner-text .title { font-size: 60px; }
+   .speciality-sec { padding: 90px 0px; }
+   .quality-bx .quality-title { font-size: 18px; }
+   body p,.eventsmoredetail { font-size: 16px; }
+   .quality-bx .icon { height: 70px; }
+   .drink-bx { padding: 0px 0px; }
+   footer .footer-div .footer-grp { margin-bottom: 25px; }
+   .horizontal-text span { font-size: 185px; }
+   .testi-cont .swiper-button-prev { left: -20px; }
+   .testi-cont .swiper-button-next { right: -20px; }
+   .secret-of-food .img-cont { height: 440px; }
+   .quality-bx .quality-text .quality-title { font-size: 25px; }
+   .gallery-sec.py-80 { padding-bottom: 100px; }
+   .gallery-sec .section-grp .sub-title.sub-title2 { margin-bottom: 20px; }
+   .menu-section .img-bx { border-bottom-right-radius: 90px; }
+   .order-sec .order-row { --bs-gutter-x: 40px; }
+   footer .button .svg { width: 8px }
+   .contcat-sec { background: #fff; padding: 60px 0px 70px 0px; }
+   .contcat-sec .contcat-grp { margin-bottom: 25px; }
+   .location-icon img { width: 40px; }
+   .contcat-sec .title-grp .title { font-size: 30px; }
+   .contcat-sec .title-grp img { height: 65px; }
+   .contcat-sec .contcat-grp p,
+   .contcat-sec .contcat-grp a,
+   .contcat-sec .contcat-grp ul li,
+   .contcat-sec .contcat-grp ul li a { font-size: 16px; }
+   .experience-sec .section-grp { margin-bottom: 50px; }
+   .exp-location-grp .exp-location-title { font-size: 80px; }
+   .exp-location-grp .svg { height: 110px; }
+   .exp-list>li a.list-title { font-size: 26px; }
+   .experience-sec { padding: 80px 0px 80px 0px }
+   .gallery-sec .btn-grp { text-align: center; margin-top: 50px }
+   .gallery-sec .section-grp .sub-title.sub-title2 { margin-bottom: 20px; }
+   .menu-list-home.exp-list>li a.list-title { font-size: 22px; }
+   .menu-list-home.exp-list>li a.list-title { padding: 13px 40px 13px 25px }
+   .menu-list-home.exp-list>li .text-box { padding: 30px 25px 0px 25px; }
+   .experience-sec .section-title-grp { margin-bottom: 50px; }
+   .event-list li .event-bx { height: 280px; }
+   .event-list { grid-gap: 20px; }
+   .event-list li .event-bx .overlay-div .overlay-text .event-title { font-size: 24px; }
+   .order-from-grp { padding-left: 90px; }
+   .order-from-grp:before { left: 20px; }
+   .news-sec { padding-bottom: 70px; }
+   .account-bx .insta-account-title .svg { width: 16px; margin-right: 8px; }
+   .pkg-row li .pkg-bx .night-title { font-size: 18px; }
+   .ladies-night-pkg { padding: 80px 0px; }
+   .feature-bx { margin-bottom: 80px; }
+   .live-performance-bx:before { aspect-ratio: 2.5; }
+   .ladies-night-menu .section-title-grp { margin-bottom: 10px; }
+   .ladies-night-menu .menu-grp .menu-title { font-size: 30px; }
+   .ladies-night-menu .menu-grp p { font-size: 16px; }
+   .events-cont .event-list li .event-bx .overlay-div .overlay-text .event-title { font-size: 28px; }
+   .event-list li .event-bx .overlay-div { padding: 40px 25px 15px 25px }
+   .download-menu .logo-icon-right { width: 150px; }
+   .download-menu .logo-icon-left { width: 160px; }
+   .py-90 { padding-top: 80px; padding-bottom: 80px; }
+   .catering-form .form-group { margin-bottom: 40px; }
+   .book-modal .modal-body .reservation-bx .button { padding: 14px 22px; }
+   .social li { margin-right: 20px; }
+   .input-group.footer-input span.wpcf7-form-control-wrap { width: 61%; }
+   .py-80 { padding-top: 70px; padding-bottom: 70px; }
+   .gallery-sec.py-80 { padding-bottom: 80px; }
+   .error-page .error-bx .subtitle { font-size: 55px; }
+   .in-banner.error-page .error-bx p { font-size: 18px; }
+   .experiance-text-sec .sub-title { margin-bottom: 25px;}
+
+   }
+   
+   
+   
+   @media screen and (max-width: 1320px) {
+   .py-80, .py-90 { padding-top: 70px; padding-bottom: 70px; }
+   .pkg-dec { margin-bottom: 70px; }
+   .testimonial-sec.py-80 { padding-top: 70px; }
+   .reservation-sec { margin-top: 60px; }
+   .order-sec.py-80 { padding-top: 50px; }
+   .sub-title { font-size: 40px; margin-bottom: 60px; }
+   .about-sec .trip-logo { width: 110px }
+   .reservation-sec .reservation-bx .sub-title { font-size: 34px; }
+   .reservation-bx .wrapper-dropdown { width: 420px; }
+   .menu-section .swiper-button-prev,
+   .menu-section .swiper-button-next { width: 45px; height: 45px; }
+   .menu-section .swiper-button-prev img,
+   .menu-section .swiper-button-next img { width: 9px; }
+   .menu-section .swiper-button-prev { left: 30px }
+   .menu-section .swiper-button-next { right: 30px }
+   .right-w .logo-icon { width: 55% }
+   .banner .banner-content .banner-text .title .word .char { font-size: 55px; line-height: 62px; }
+   .banner .banner-content .banner-text p { font-size: 18px; }
+   .header .logo-icon { height: 40px; }
+   .navigation-menu li a { font-size: 16px; }
+   .specification-menu li a { font-size: 13px; }
+   .header { padding: 15px 0px }
+   .header.active .navigation-menu li a { font-size: 16px; }
+   .button span,.button span { font-size: 15px; }
+   .reservation-bx { padding: 130px 0px }
+   .order-sec .event-place-name { font-size: 28px; }
+   .order-sec .order-city-bx .place-icon { height: 100px; }
+   .logo-grp a img { width: 105px; }
+   .logo-grp a img.talabat-logo { width: 70px; }
+   .quality-bx { padding: 0px 10px; }
+   .menu-section { margin-top: 50px; }
+   .ting-reviews .ting-review-text .review-btn img { width: 18px; }
+   .testi-cont .swiper-button-prev { left: -20px; }
+   .testi-cont .swiper-button-next { right: -20px; }
+   .testi-bx .name-grp-cont .name-grp .testi-name { font-size: 15px; }
+   .testi-bx .name-grp-cont .name-grp .months { font-size: 12px; }
+   .ting-reviews .ting-review-text .star-div img,
+   .testi-bx .star-div img { width: 15px; margin-right: 6px; }
+   .ting-reviews .ting-review-text p img { font-size: 17px; }
+   .ting-reviews .ting-review-text .star-div span { font-size: 15px; }
+   .gallery-sec.py-80 { padding-bottom: 90px; }
+   .address-info .title { font-size: 19px; }
+   .address-info p { font-size: 14px; margin-bottom: 5px; }
+   .instagram-section { padding: 20px 0px }
+   .news-cont .swiper-button-prev { left: -30px }
+   .news-cont .swiper-button-next { right: -30px; }
+   .news-bx .news-logo img { width: 60%; }
+   .news-bx .news-logo { display: flex; align-items: center; justify-content: center; }
+   .menu-page .menu-list-home.exp-list>li { margin-bottom: 25px; }
+   .menu-page .menu-list-home.exp-list>li a.list-title { font-size: 28px; }
+   .menu-page .menu-list-home.exp-list>li .text-box { padding: 30px 30px 0px 30px; }
+   .catering-form { padding-left: 30px; }
+   .input-group.footer-input span.wpcf7-form-control-wrap { width: 60%; }
+   }
+   
+   
+   @media screen and (max-width: 1280px) 
+   {
+   .navigation-menu li { margin-left: 25px; margin-right: 25px; }
+   .social li { margin-right: 22px; }
+   footer .footer-title { font-size: 16px; margin-bottom: 25px; }
+   footer .footer-div .quick-links li { margin-bottom: 6px; }
+   footer .footer-div .footer-grp { margin-bottom: 30px; }
+   .our-story-sec { padding: 70px 0px 140px 0px; }
+   .what-sec { padding: 50px 0px 80px 0px; }
+   .speciality-sec { padding: 80px 0px; }
+   .eat-sec { padding: 80px 0px 80px 0px; }
+   .our-story-sec .video-div { height: 560px; }
+   .about-sec .award-grp .sub-title { font-size: 18px; }
+   .quality-bx .quality-icon img,
+   .quality-bx .quality-icon { height: 70px; }
+   .gallery-sec .section-grp { margin-bottom: 50px; }
+   .gallery-row { grid-gap: 25px; }
+   footer .button .svg { width: 8px; margin-left: 6px; }
+   footer .btn-grp .button { margin-right: 5px; margin-bottom: 5px; }
+   .footer-div .button { padding: 12px 15px; }
+   footer { padding-top: 60px; }
+   .contcat-sec .contcat-grp .con-title { font-size: 16px; }
+   .address-info a { font-size: 13px; }
+   .exp-list>li a.list-title { font-size: 22px; }
+   .exp-location-grp .exp-location-title { font-size: 70px; }
+   .exp-out-cont { margin-top: -50px; }
+   .button { padding: 14px 26px; }
+   .instagram-section .insta-text li a { font-size: 25px; }
+   .instagram-section .insta-text li a .svg { width: 20px; }
+   .instagram-section .insta-text li { font-size: 20px; }
+   .instagram-section .insta-text li:first-child { font-size: 24px; }
+   .instagram-section .insta-text li { margin: 0px 40px; }
+   .instagram-section .insta-text li a { padding: 12px 27px; }
+   .ladies-night-pkg { padding: 70px 0px; }
+   .pkg-dec { margin-top: 40px; }
+   .ladies-night-menu { margin-top: 60px; }
+   .ladies-night-menu .row { --bs-gutter-x: 60px; --bs-gutter-y: 40px; }
+   .main-packages-bx { padding: 0px 0px 80px 0px; }
+   .book-table-bx { padding: 80px 0px; }
+   .container { max-width: 95%; width: 100%; }
+   .quality-sec .logo-icon-left { bottom: -10px; }
+   .account-bx.abudabi { margin-top: 70px; }
+   .gallery-sec .section-grp { margin-bottom: 40px; }
+   .menu-list-home.exp-list>li a.list-title .icon { width: 17px; height: 17px; }
+   .menu-page .menu-list-home.exp-list>li a.list-title { font-size: 26px; }
+   .just-description.text-box { padding: 20px 25px 0px 25px; }
+   .drink-bx .drink-text .title { font-size: 40px; }
+   .news-bx .news-text .news-title { font-size: 22px; }
+   .news-sec .sub-title2 { margin-bottom: 40px; }
+   .horizontal-text-cont { bottom: 30px; }
+   .our-story-sec .section-grp p { font-size: 18px; }
+   .news-bx .news-text .news-name { font-size: 16px; }
+   .speciality-sec .logo-icon-right, .speciality-sec .logo-icon-left { width: 140px; }
+   .ladies-night-menu .row { --bs-gutter-y: 25px; }
+   .testi-other-page { padding: 70px 0px 60px 0px; }
+   .book-table-bx { padding: 70px 0px; }
+   .main-packages-bx { padding: 0px 0px 70px 0px; }
+   .error-page .error-bx .error-title span { font-size: 180px; line-height: 1; }
+   .error-page .error-bx .subtitle { font-size: 50px; }
+   .error-page .error-bx .error-title .error-img { margin-top: -20px; }
+   .social li a .icontext { position: relative; bottom: 3px; padding: 0px; height: auto; border: 0px; background: transparent;margin-bottom: 5px; opacity: 1; font-size: 10px; } 
+   .header .social li a .icontext { top:inherit; bottom: 3px; }
+   .news-bx .news-logo img { width: 50%; }
+   .empty-div { display: inline-block;width: 8px;}
+
+   }
+   
+   @media screen and (max-width: 1200px)
+    {
+   .navigation-menu li,.header.active .navigation-menu li { margin-left: 12px; margin-right: 12px; }
+   .social li { margin-right: 10px; }
+   .header .header-logo { height: 85px; }
+   .social li a img { height: 16px; }
+   .header .button { padding: 12px 22px; }
+   .about-sec.py-80 { padding-top: 30px; padding-bottom: 20px; }
+   .testimonial-sec.py-80 { padding-top: 60px; padding-bottom: 0px; }
+   .menu-card { padding: 40px; }
+   .menu-list-home.exp-list>li .text-box { padding: 20px 20px 0px 20px; }
+   .menu-list-grp .menu-category { margin-bottom: 15px; font-size: 25px; }
+   .menu-list li { font-size: 16px; }
+   .menu-list-home.exp-list>li .text-box .menu-list li p { font-size: 15px; }
+   .menu-list-home.exp-list>li a.list-title { font-size: 20px; padding: 11px 34px 11px 20px; }
+   .menu-list-home.exp-list>li a.list-title .icon { height: 16px; width: 16px; }
+   .event-list li .event-bx { height: 220px; }
+   .banner .banner-content .banner-text .button-grp { margin-top: 20px; }
+   .menu-section { margin-top: 30px; }
+   .sub-title { font-size: 35px; }
+   .event-list li .event-bx .overlay-div .overlay-text .event-title { font-size: 22px; }
+   .secret-of-food.py-80 { padding-bottom: 70px; }
+   .quality-bx { padding: 0px 0px; }
+   .order-from-grp { padding-left: 60px; }
+   .event-book-l { padding-right: 0px; }
+   .order-from-grp:before { left: 10px; }
+   .order-from-grp { padding-left: 50px; }
+   .event-place li { padding: 10px 30px; }
+   .event-place li .place-bx .place-icon { margin-right: 10px; }
+   .event-place li .place-bx .button { padding: 13px 18px; }
+   .event-place li .place-bx .event-place-name,
+   .event-place li .place-bx .number { font-size: 20px; }
+   .order-city-bx .event-place-name { font-size: 20px; }
+   .instagram-section .insta-text li { margin: 0px 20px; }
+   footer .input-group .border-button { padding: 13px 20px; margin-left: 15px !important; }
+   .input-group.footer-input span.wpcf7-form-control-wrap { width: 55%; }
+   .quality-bx .quality-icon img,
+   .quality-bx .quality-icon { height: 60px; }
+   .quality-bx .quality-icon img,
+   .quality-bx .quality-icon { height: 60px; }
+   .gallery-sec.py-80 { padding-bottom: 70px; }
+   .banner { border-bottom-left-radius:80px; border-bottom-right-radius:80px; }
+   .in-banner { border-bottom-left-radius:80px; border-bottom-right-radius:80px; height: 420px; }
+   .in-banner .banner-text .title { font-size: 50px; }
+   .experience-sec .section-grp { margin-bottom: 30px; }
+   .exp-out-cont { padding: 50px 50px; }
+   .exp-location-grp .exp-location-title { font-size: 65px; }
+   .experience-sec { padding: 70px 0px; }
+   .just-description.text-box { padding: 20px 20px 0px 20px; }
+   .just-description .menu-desc-text .menu-title, .just-description .menu-desc-text .menu-title span { font-size: 30px; }
+   .menu-list-home.exp-list>li a.list-title { border-radius: 12px; }
+   .pkg-dec { margin-top: 30px; margin-bottom: 50px; }
+   .ladies-night-menu .section-title-grp .sub-title.sub-title2 { margin-bottom: 20px; }
+   .ladies-night-menu .menu-grp .menu-title { font-size: 26px; margin-bottom: 15px; }
+   .book-table-bx .logo-icon-left, .book-table-bx .logo-icon-right, .live-performance-bx .logo-icon-right, .live-performance-bx .logo-icon-left { width: 110px; }
+   .subtitle3, .subtitle3 span { font-size: 28px; }
+   .subtitle3 { margin-bottom: 40px; }
+   .section-title-grp { margin-bottom: 60px; }
+   }
+
+   @media screen and (max-width: 1180px) 
+   {
+   .address-info .title { font-size: 16px;}
+   .address-info { width: 230px; right: 70%;}
+   .foot-grp4 .footer-div { margin-left: -40px;}
+   }
+
+   
+   @media screen and (max-width: 1024px) 
+   {
+   .event-place li .place-bx .place-icon { height: 45px; }
+   footer .footer-logo-grp .footer-subtitle { font-size: 14px; }
+   footer .footer-logo-grp .footer-logo { width: 80px; }
+   .border-button span,
+   .header .button span,
+   .button span { font-size: 13px; }
+   .right-text,
+   .right-text span,
+   .design-text,
+   .design-text a { font-size: 12px; }
+   .about-sec.py-80 { padding-bottom: 10px; }
+   .gallery-row li a { height: 300px; }
+   .account-bx .insta-account-title { font-size: 16px; }
+   .gallery-sec.py-80 { padding-bottom: 60px; }
+   .py-80 , .py-90 { padding-top: 60px; padding-bottom: 60px; }
+   .contcat-sec .contcat-grp p, .contcat-sec .contcat-grp a, .contcat-sec .contcat-grp ul li, .contcat-sec .contcat-grp ul li a, .contcat-sec .contcat-grp { font-size: 14px; }
+   .contcat-grp ul li .svg { width: 16px; margin-right: 3px; }
+   .experience-sec { padding: 60px 0px; }
+   .exp-location-grp .exp-location-title { font-size: 55px; }
+   .exp-location-grp .svg { height: 80px; }
+   .exp-list>li a.list-title { font-size: 20px; }
+   .menu-page .section-title-grp { margin-bottom: 40px; }
+   .section-title-grp p { font-size: 18px; }
+   .menu-page .menu-list-home.exp-list>li .text-box { padding: 20px 20px 0px 15px; }
+   .menu-list li { margin-bottom: 15px; }
+   .menu-page .menu-list-home.exp-list>li a.list-title { font-size: 22px; }
+   .just-description.text-box { padding: 10px 10px 0px 10px; }
+   .just-description .menu-desc-text .menu-title, .just-description .menu-desc-text .menu-title span { font-size: 24px; }
+   .video-img { height: auto; }
+   .horizontal-text span { font-size: 125px; }
+   .horizontal-text-cont { bottom: 20px; }
+   .our-story-sec { padding: 60px 0px 60px 0px; }
+   .speciality-sec { padding: 60px 0px; }
+   .quality-bx .quality-title { font-size: 15px; }
+   .quality-bx .icon { height: 60px; margin-bottom: 25px; }
+   .drink-bx .graphics-img { flex: 0 0 150px; margin-right: 30px; }
+   .eat-sec { padding: 60px 0px; }
+   .drink-bx .drink-text .title { font-size: 30px; }
+   .irie-people-sec .people-img { height:auto; }
+   .news-bx .news-logo img { width: 70%; }
+   .news-bx .news-text .news-title { font-size: 20px; }
+   .eat-sec .logo-icon-left { width: 110px; }
+   .eat-sec .logo-icon-right { width: 110px; right: 10px; top:10px; }
+   .our-story-sec .section-grp p { font-size: 16px; }
+   .irie-people-sec { margin-bottom: 210px; }
+   .news-cont .swiper-slide { height: auto;}
+   .news-cont .news-text { padding: 25px 20px; }
+   .news-sec { padding-bottom: 60px; }
+   .news-bx .news-text .news-name { font-size: 14px; }
+   .news-cont .swiper-button-prev { left: -14px; }
+   .news-cont .swiper-button-next { right: -14px; }
+   .irie-people-sec .sub-title { margin-bottom: 20px; }
+   .horizontal-text-cont { bottom: 0px; }
+   .our-story-sec { padding:50px 0px 70px 0px; }
+   .testi-other-page { padding: 60px 0px 30px 0px; }
+   .ladies-night-pkg, .book-table-bx { padding: 60px 0px; }
+   .main-packages-bx { padding: 0px 0px 60px 0px; }
+   .book-table-bx .logo-icon-right { width: 110px; }
+   .events-cont .event-list li .event-bx .overlay-div .overlay-text .event-title { font-size: 25px; }
+   .section-title-grp { margin-bottom: 50px; }
+   .pkg-row li .pkg-bx .night-title { font-size: 16px; }
+   .feature-bx .section-title-grp { margin-bottom: 40px; }
+   .live-performance-bx { padding: 60px 0px; }
+   .in-banner.error-page { padding: 80px 0px; }
+   .in-banner.error-page { margin-bottom: 60px; }
+   .header.active { background: rgba(0, 0, 0, 1); }
+   .catering-form .form-control::-webkit-input-placeholder { font-size: 14px; }
+   .catering-form .form-control::-moz-placeholder { font-size: 14px; }
+   .catering-form .form-control:-ms-input-placeholder { font-size: 14px; }
+   .catering-form .form-control::-ms-input-placeholder { font-size: 14px; }
+   .catering-form .form-control::placeholder { transition: var(--all-fast); font-size: 14px; }
+   .catering-form form.row { --bs-gutter-x: 20px; }
+   .foot-grp4 .footer-div { margin-left: 0px;}
+   .empty-div { display: inline-block;width: 7px;}
+      }
+   
+   @media screen and (max-width: 991px)
+    {
+   .banner .banner-content .banner-text .title .word .char { font-size: 46px; line-height: 47px; }
+   .banner .banner-content .banner-text .title .word { padding: 0px 8px; }
+   .banner .swiper-pagination { bottom: 50px; }
+   .scroll-down { bottom: 100px; }
+   .banner { height: 70vh; }
+   .banner .swiper-slide .img-box:before { height: 200px; }
+   .banner .swiper-slide .img-box:after { height: 340px; }
+   .award-grp { padding: 0px; }
+   .about-sec .trip-logo { width: 80px; }
+   .about-sec .award-grp .sub-title { font-size: 16px; }
+   .about-sec .about-text { margin-top: 60px; }
+   .about-sec .about-text .sub-title { margin-bottom: 20px; }
+   .logo-icon-right { width: 110px; right: 0; }
+   .about-sec .logo-icon-left { bottom: 20px; }
+   .reservation-bx .wrapper-dropdown { width: 100%; }
+   .reservation-bx { padding: 60px 0px; }
+   .reservation-sec .reservation-bx .sub-title { font-size: 30px; }
+   .reservation-bx button { margin-top: 30px; }
+   .wp-gr .grw-row-x .grw-header { flex: 0 0 40% !important; }
+   .wp-gr .grw-row-x .grw-header+.grw-content { flex: 10 0 60% !important; }
+   .testimonial-sec .sub-title { margin-bottom: 40px; }
+   .menu-section .img-bx { border-bottom-right-radius: 0px; }
+   .py-80, .py-90 { padding-top: 60px; padding-bottom: 60px; }
+   .section-title-grp p { font-size: 16px; }
+   .event-list { display: grid; grid-template-columns: repeat(3, 1fr); }
+   .secret-of-food .img-cont { height: auto; margin-bottom: 30px; }
+   .secret-of-food .secret-text { padding-left: 0px; }
+   .quality-bx .quality-icon { margin-bottom: 15px; }
+   .quality-bx { margin-bottom: 20px; }
+   .order-from-grp { padding-left: 0px; }
+   .order-from-grp:before { display: none; }
+   .event-sec .sub-title.sub-title2 { margin-bottom: 30px; }
+   .event-book-l { margin-bottom: 50px; }
+   .event-place li .place-bx .event-place-name,
+   .event-place li .place-bx .number { font-size: 20px; }
+   .event-place li .place-bx .place-icon { height: 55px; }
+   .event-list li .event-bx { border-radius: 15px; }
+   .instagram-section .insta-text li:first-child { margin-right: 20px; }
+   .instagram-section .insta-text li { margin: 0px 10px; }
+   .instagram-section .insta-text li a { font-size: 20px; margin-left: 10px; }
+   .instagram-section .insta-text li:first-child { font-size: 21px; }
+   .instagram-section .insta-text li a { padding: 11px 18px; }
+   .instagram-section .insta-text li a .svg { width: 16px; min-width: 16px; margin-right: 10px; }
+   .instagram-section .insta-text li { font-size: 18px; }
+   .input-group.footer-input span.wpcf7-form-control-wrap { width: 50%; flex: auto; }
+   footer .input-group .border-button { margin-left: 5px !important; padding: 13px 14px; }
+   footer { padding-top: 45px; }
+   footer .btn-grp .button { margin-bottom: 10px; }
+   footer .footer-title { margin-bottom: 18px; }
+   .social li a { width: 38px; }
+   .quality-bx .quality-text .quality-title { font-size: 22px; }
+   .sub-title span { display: inline-block; }
+   .navigation-menu { display: none; }
+   .hamburger { display: flex;}
+   .header .mobile-logo { display: block;}
+   .in-banner { height: 320px; }
+   .in-banner .banner-img:before { height: 200px; }
+   .in-banner .banner-img:after { height: 240px; }
+   .gallery-row li a { height: 220px; }
+   .gallery-sec .btn-grp { margin-top: 40px; }
+   .banner, .in-banner { border-bottom-left-radius: 60px; border-bottom-right-radius: 60px; }
+   .account-bx .insta-account-title { margin-bottom: 20px; }
+   .gallery-sec .section-grp .sub-title.sub-title2 { margin-bottom: 10px; }
+   .gallery-row li a { border-radius: 15px; }
+   .account-bx.abudabi { margin-top: 50px; }
+   .location-div { width: 70%; margin-left: auto; margin-right: auto;}
+   .in-banner .banner-text .title { font-size: 40px; }
+   .contcat-sec .contcat-grp.contcat-grp-last { margin-top: 10px; }
+   .contcat-sec { padding: 50px 0px 50px 0px; }
+   .exp-location-grp { margin-left: 0px; }
+   .exp-location-grp .exp-location-title { font-size: 45px; }
+   .exp-out-cont { width: 87%; padding: 30px 30px; }
+   .exp-list>li .text-box p { font-size: 16px; }
+   .exp-list>li a.list-title { font-size: 18px; }
+   .exp-list>li a.list-title span.icon { width: 12px; }
+   .exp-out-cont { margin-top: -35px; }
+   .sub-title { font-size: 32px; }
+   .sub-title.sub-title2 { margin-bottom: 20px; }
+   .download-menu .button-grp .border-button img { width: 20px; }
+   .border-button { padding: 11px 30px; }
+   .download-menu .logo-icon-right { width: 100px; }
+   .download-menu .logo-icon-left { width: 100px; }
+   .row.quality-row { --bs-gutter-x: 20px; margin-top: 20px; }
+   .quality-bx .icon { height: 50px; margin-bottom: 16px; }
+   body p, .eventsmoredetail { font-size: 15px; }
+   .speciality-sec .logo-icon-right { width: 90px; right: -10px; }
+   .speciality-sec .logo-icon-left { width: 90px; bottom: -20px; }
+   .drink-bx.fade-in-right { margin-top: 30px; }
+   .news-bx .news-logo { min-width: 200px; width: 200px; }
+   .ladies-night-pkg, .book-table-bx { padding: 50px 0px; }
+   .night-life-bx { padding: 0px 0px; }
+   .night-life-bx .img-bx { width: 48%; display: inline-block; aspect-ratio: 1; }
+   .night-life-bx .img-bx1, .night-life-bx .img-bx3 { margin-right: 10px; } 
+   .night-life-bx .img-bx2, .night-life-bx .img-bx4 { margin-left: 10px; } 
+   /* .night-life-bx .img-bx img { aspect-ratio: 1.5;} */
+   .night-life-bx-in { margin: 40px 0px;}
+   .ladies-night-menu { margin-top: 40px; }
+   .ladies-night-menu .section-title-grp p { font-size: 16px; }
+   .events-cont .event-list li .event-bx .overlay-div { padding: 20px 15px 15px 15px; }
+  .events-cont .event-list li .event-bx .overlay-div .overlay-text .event-title { margin-bottom: 0px; font-size: 21px; }
+  .events-cont .event-list { grid-gap: 15px; }
+  .section-title-grp { margin-bottom: 40px; }
+  .modal-dialog { max-width: 95%; }
+  .book-modal .modal-body .reservation-bx { padding: 30px; }
+  /* .book-modal .modal-body .reservation-bx .button { margin-top: 10px; } */
+  .book-modal .modal-body .reservation-bx .sub-title { margin-bottom: 25px; }
+  .book-modal .close-btn { top:10px; right: 10px; }
+  .main-packages-bx .pkg-row { --bs-gutter-x: 20px; --bs-gutter-y: 20px; }
+  .ladies-night-pkg .pkg-row { --bs-gutter-x: 20px; --bs-gutter-y: 20px; }
+  .eventsmoredetail { margin-top: 40px; }
+  .event-performance.live-performance-bx .logo-icon-left { bottom: 175px; }
+  .error-page .error-bx .error-title span { font-size: 160px; margin: 0px 5px; }
+  .error-page .error-bx .error-title .error-img { width: 160px; margin-top: -40px; } 
+  .error-page .error-bx .subtitle { font-size: 42px; }
+  .in-banner.error-page .error-bx p { font-size: 15px; }
+  .error-page .error-bx .error-title { margin-bottom: 5px; }
+  .in-banner .banner-img img { height: 100%; }
+  .event-list li .event-bx:hover { transform: scale(1); }
+  .event-list li .event-bx:hover img { transform: scale(1); }
+  .subtitle3, .subtitle3 span { font-size: 22px; }
+  .subtitle3 { margin-bottom: 25px; }
+  .catering-form { padding-left: 0px; }
+  .catering-form .form-control { font-size: 13px; height: 40px; }
+  .catering-form .wrapper-dropdown { min-height: 40px; margin-bottom: 0px; }
+  .catering-form select.form-control { height: 40px;}
+  .catering-form .form-group { margin-bottom: 22px; }
+  .bookeddate:after, .timeformdivclass:after { width: 15px; height: 15px; background-size: 14px; }
+  .dropdownarrowclass:after { background-size: 12px; right: 10px; top:40%; }
+  .catering-img { border-radius: 12px; width: 95%; }
+  .timeformdivclass:after { right: 10px; }
+  ::placeholder { font-size: 13px; }
+  .catering-form .form-control::-webkit-input-placeholder { font-size: 13px; }
+  .catering-form .form-control::-moz-placeholder { font-size: 13px; }
+  .catering-form .form-control:-ms-input-placeholder { font-size: 13px; }
+  .catering-form .form-control::-ms-input-placeholder { font-size: 13px; }
+  .catering-form .form-control::placeholder { transition: var(--all-fast); font-size: 13px; }
+  .barContainer { width: 3px; background: transparent; box-shadow: none; }
+  .foot-grp4 { justify-content: flex-start; }
+  .footer-div .button { padding: 11px 11px; }
+  footer .footer-div .btn-grp { padding-top: 0px; }
+  .footer-div .button span { font-size: 12px; }
+  .header .container, footer .container, .copy .container { padding-left: 20px; padding-right: 20px; }
+  footer .btn-grp .button { margin-right: 2px; }
+  footer .footer-row { padding-bottom: 20px; }
+  .social li a .icontext { bottom: 5px; font-size: 8px;}
+  .empty-div { display: inline-block;width: 5px;}
+
+   }
+   
+   @media screen and (max-width: 767px) 
+   {
+   .fullscreen { width: 300px; right: -300px; }
+   .banner-text title br { display: none; }
+   .banner-text { border-bottom-left-radius: 60px; border-bottom-right-radius: 60px }
+   .banner .swiper-pagination-bullet.swiper-pagination-bullet-active:before { width: 18px; height: 18px; }
+   .banner .banner-content .banner-text .title .word .char { font-size: 35px; line-height: 40px; }
+   .award-row { justify-content: center; --bs-gutter-y: 20px }
+   .banner { border-bottom-left-radius: 60px; border-bottom-right-radius: 60px; }
+   .banner .banner-content .banner-text p { font-size: 16px; }
+   .banner .swiper-pagination-bullet { width: 6px; height: 6px; margin: 8px 15px !important; }
+   .reservation-sec .reservation-bg { background: #000;}
+   .reservation-sec .reservation-bg img { object-position: bottom left; height: 100%; opacity: 0.25; }
+   .reservation-sec .reservation-bg img.mob-img { display: block; }
+   .reservation-sec .reservation-bg img.desk-img { display: none; }
+   .reservation-bx { padding: 70px 40px; }
+   .reservation-sec .reservation-bx { text-align: center; }
+   .reservation-bx .wrapper-dropdown { text-align: left; }
+   .wp-gr .grw-header-inner,
+   .wp-gr .grw-review-inner { padding: 5px !important; }
+   .wp-gr .wp-google-text { font-size: 14px !important; }
+   .testimonial-sec.py-80 { padding-top: 45px; }
+   .wp-gr .wp-google-place .wp-star svg { width: 16px !important; height: 16px !important; }
+   .wp-gr .wp-google-rating { font-size: 16px !important; }
+   .secret-of-food.py-80 { padding-top: 0px; }
+   .secret-of-food.py-80 { padding-bottom: 50px; }
+   .what-grp .ting-irie-logo { width: 270px; margin-right: 10px; }
+   .what-sec.what-home-sec { padding: 50px 0px; }
+   .what-grp .what-text .sub-title { margin-bottom: 15px; }
+   .sub-title { margin-bottom: 40px; font-size: 26px; letter-spacing: 3px; }
+   .instagram-section .insta-text { display: block; }
+   .instagram-section .insta-text li { display: inline-block; }
+   .instagram-section .insta-text li:first-child { display: block; margin-bottom: 10px; width: 100%; }
+   .header .container,footer .container,.copy .container { padding-left: 15px; padding-right: 15px; }
+   .menu-card { padding: 40px 20px; }
+   .input-group.footer-input span.wpcf7-form-control-wrap { flex: auto; }
+   footer .input-group .border-button { margin-left: 20px !important; }
+   .footer-logo-grp { margin-bottom: 30px; }
+   .foot-grp3 { display: block; }
+   .foot-grp4 { justify-content: flex-start; }
+   .foot-grp4 .footer-div { margin-top: 20px; }
+   .instagram-section { padding: 25px 0px; }
+   .reservation-sec { margin-top: 50px; }
+   .reservation-bx { padding: 50px 40px; }
+   .reservation-sec .reservation-bx .sub-title { text-align: center; }
+   .container { max-width: 100%; padding: 0px 20px; }
+   body p,.eventsmoredetail { font-size: 14px; }
+   .hamburger-content ul li a { font-size: 24px; }
+   .fullscreen { padding: 15px 25px; }
+   .fullscreen .close { width: 20px; height: 20px; }
+   .social li { margin-right: 18px; }
+   .instagram-section .insta-text li:first-child { margin-right: 0px; }
+   .secret-of-food .secret-text .border-button { margin-top: 0px; }
+   footer .social { margin-bottom: 20px; padding-top: 7px; }
+   footer .footer-div .footer-grp p { margin-bottom: 9px; }
+   .logo-grp a img { width: 94px;}
+   .abu-city-bx .logo-grp a:last-child img { width: 55px; }
+   .in-banner { border-bottom-left-radius: 60px; border-bottom-right-radius: 60px; height: 350px; }
+   .in-banner .banner-text .title { font-size: 34px; }
+   .in-banner .banner-img:before { height: 180px; }
+   .in-banner .banner-img:after { height: 210px; }
+   .py-80 , .gallery-sec.py-80, .py-90 { padding-top: 50px; padding-bottom: 50px; }
+   .gallery-sec .section-grp { margin-bottom: 30px; }
+   .account-bx .insta-account-title { font-size: 14px; }
+   .gallery-row { grid-gap: 15px; }
+   .gallery-row li a { height:auto; }
+   .gallery-row li a img { aspect-ratio: 1.1; }
+   .contcat-sec .contcat-grp { display: inline-block; margin-right: 25px; }
+   .contcat-sec .title-grp { margin-bottom: 20px; }
+   .contcat-sec .abudhabi-con { margin-top: 20px;}
+   .address-info { bottom: 0%; right: 100%; }
+   .location-div { width: 100%;}
+   .exp-out-cont { margin-top: 20px; width: 100%; }
+   .exp-location-grp .exp-location-title { font-size: 35px; }
+   .experience-sec { padding: 50px 0px; }
+   .exp-list>li { padding: 15px 0px; }
+   .button { padding: 12px 20px; }
+   .border-button span, .header .button span, .button span { font-size: 13px; }
+   .button img, .button .svg, .border-button img, .border-button .svg { width: 8px; }
+   .menu-list li { font-size: 14px; }
+   .section-title-grp p { font-size: 16px; }
+   .our-story-sec, .speciality-sec, .eat-sec { padding: 50px 0px; }
+   .row.quality-row { justify-content: center; --bs-gutter-y:20px }
+   .ladies-night-menu .menu-grp .menu-title { font-size: 23px; }
+   .pkg-row li .pkg-bx .night-title { font-size: 15px; }
+   .ladies-night-pkg .pkg-row { --bs-gutter-x: 20px; --bs-gutter-y: 20px; }
+   .pkg-dec .button { margin-top: 5px; }
+   .night-life-bx .mob-title { display: block; margin-bottom: 30px; }
+   .night-life-bx .dest-title { display: none; }
+   .ladies-night-pkg, .book-table-bx { padding: 40px 0px; }
+   .book-table-bx .logo-icon-left { width: 120px; }
+   .book-table-bx .button { margin-top: 10px; }
+   .testi-other-page { padding: 50px 0px 10px 0px; }
+   .pkg-dec { margin-bottom: 40px; }
+   .book-table-bx .logo-icon-right { width: 70px; }
+   .book-table-bx .logo-icon-left { width: 90px; }
+   .main-packages-bx { padding: 0px 0px 40px 0px; }
+   .book-modal .modal-body .reservation-bx .sub-title { font-size: 22px; }
+   .feature-bx { margin-bottom: 60px; }
+   .feature-bx .section-title-grp { margin-bottom: 30px; }
+   .live-performance-bx { padding: 50px 0px; }
+   .event-performance.live-performance-bx:before { aspect-ratio: 2.3; }
+   .book-table-bx .logo-icon-left, .book-table-bx .logo-icon-right, .live-performance-bx .logo-icon-right, .live-performance-bx .logo-icon-left { width: 80px; }
+   .eventsmoredetail { margin-top: 30px; }
+   .error-page .error-bx .error-title span { font-size: 120px; }
+   .error-page .error-bx .error-title .error-img { width: 120px; }
+   .error-page .error-bx .subtitle { font-size: 32px; }
+   .in-banner.error-page { padding: 100px 0px 90px 0px; margin-bottom: 4%; }
+   .download-menu .button-grp .border-button { margin: 0px 5px; padding: 8px 20px; }
+   .news-sec { padding-bottom: 40px; }
+   .about-text .sub-title span, .reservation-sec .reservation-bx .sub-title span, .experience-sec .section-title-grp .sub-title span { display: block; }
+    .sub-title span, .sub-title.sub-title2 span , .subtitle3 span { margin-left: 4px; margin-right: 4px; display: inline-block; }
+   .scroll-down { bottom: 70px; }
+   .subtitle3 { margin-bottom: 25px; text-align: center; }
+   .catering-img { margin-bottom: 20px; width: 100%; }
+   .catering-img img { height: auto; aspect-ratio: 1.3; object-position: center center; }
+   .footer-grp .break { display: block;}
+   .banner .banner-content .banner-text .button-grp { display: none;}
+   .about-sec .border-button { margin-top: 10px; }
+
+   }
+   
+   
+   @media screen and (max-width: 640px)
+    {
+   .event-list { display: grid; grid-template-columns: repeat(2, 1fr); }
+   .event-list li .event-bx .overlay-div { padding: 40px 15px 15px 15px; }
+   .event-list li .event-bx .overlay-div .overlay-text .event-title { font-size: 20px; }
+   .event-list li .event-bx .overlay-div .overlay-text .read-more-text { font-size: 11px; }
+   .reservation-bx { padding: 50px 20px; }
+   .contcat-sec { padding: 40px 0px; }
+   .contcat-sec .contcat-grp ul li { display: inline-block; margin-bottom: 0px;}
+   .contcat-sec .contcat-grp ul li a { line-height: 1;}
+   .contcat-sec .contcat-grp ul li:last-child { border-left: 1px solid #d4d4d4; padding-left: 10px; margin-left: 10px;} 
+   .night-life-bx .img-bx { width: 47%; }
+   .night-life-bx .img-bx1, .night-life-bx .img-bx3 { margin-right: 1.5%;}
+   .night-life-bx .img-bx2, .night-life-bx .img-bx4 { margin-left: 1.5%;}
+   .section-title-grp { margin-bottom: 30px; }
+   .event-performance.live-performance-bx:before { aspect-ratio: 1.9; }
+   .main-packages-bx .sub-title.sub-title2 { margin-bottom: 30px; }
+   .night-life-bx-in { margin: 30px 0px; }
+   .subtitle3, .subtitle3 span { font-size: 20px; }
+   .catering-form .form-control::-webkit-input-placeholder { font-size: 14px }
+   .catering-form .form-control::-moz-placeholder { font-size: 14px }
+   .catering-form .form-control:-ms-input-placeholder { font-size: 14px }
+   .catering-form .form-control::-ms-input-placeholder { font-size: 14px }
+   .catering-form .form-control::placeholder { transition: var(--all-fast); font-size: 14px }
+   .testimonial-sec .sub-title { margin-bottom: 20px; }
+   footer .footer-row { padding-bottom: 10px; }
+      }
+   
+   
+   @media screen and (max-width: 576px)
+    {
+   .banner { border-bottom-left-radius: 40px; border-bottom-right-radius: 40px; }
+   .banner .banner-content .banner-text .title .word .char { font-size: 30px; line-height: 30px; }
+   .banner .banner-content .banner-text .title .word { padding: 0px 4px; }
+   .banner { height: 70vh; }
+   .banner .swiper-pagination { bottom: 30px; }
+   .award-grp { display: block; text-align: center; }
+   .about-sec .trip-logo { width: 60px; min-width: 60px; height: auto; margin:auto }
+   /* .about-sec .award-grp .sub-title { text-align: left; } */
+   .about-sec .award-grp .sub-title { font-size: 12px; }
+   .about-sec .award-grp .sub-title span { display: block; }
+   .award-row { --bs-gutter-y: 15px; }
+   .about-sec .about-text { margin-top: 40px; }
+   .about-sec p { width: 100%; }
+   .about-sec .border-button { margin-top: 10px; }
+   .reservation-sec { margin-top: 40px; }
+   .reservation-sec .reservation-bx .sub-title { font-size: 25px; margin-bottom: 30px; }
+   .menu-section { margin-top: 10px; }
+   .menu-list-grp .menu-category { font-size: 20px; }
+   .menu-list li { font-size: 14px; margin-bottom: 15px; }
+   .menu-list-home.exp-list>li a.list-title { font-size: 16px; }
+   .py-80, .py-90 { padding-top: 40px; padding-bottom: 40px; }
+   .section-title-grp .sub-title { margin-bottom: 20px; }
+   .experience-sec .section-title-grp { margin-bottom: 30px; }
+   .sub-title.sub-title2 { margin-bottom: 20px; }
+   .event-place li .place-bx .event-place-name,
+   .border-button span,
+   .header .button span,
+   .button span { font-size: 12px; }
+   .event-sec .sub-title.sub-title2 { font-size: 26px; }
+   .order-city-bx .place-icon { height: 50px; }
+   .instagram-section .insta-text li:last-child { margin-left: 0px; }
+   .footer-logo-grp { margin-bottom: 20px; }
+   footer { padding-top: 35px; }
+   footer .footer-row { padding-top: 30px; margin-top: 30px; }
+   footer .footer-div .footer-grp { width: 49%; display:inline-flex; flex-direction: column; vertical-align: text-top; padding-right: 10px; }
+   footer .footer-div .quick-links { margin-bottom: 20px; display: flex; flex-wrap: wrap; margin-top: -2px; }
+   footer .footer-div .quick-links li { flex: 0 0 auto; padding-right: 20px; margin-right: 20px; position: relative; }
+   footer .footer-div .quick-links li:last-child:before { display: none; }
+   footer .footer-div .quick-links li:before { content: ""; width: 1px; position: absolute; top: 50%; right: 0px; height: 10px; opacity: 0.5; transform: translateY(-50%); background: #fff; }
+   footer .awards-logo { text-align: left; margin-top: 15px; }
+   footer .awards-logo img { width: 160px; }
+   .design-text { text-align: left; }
+   .section-title-grp p { font-size: 14px; }
+   .quality-sec .logo-icon-left,
+   .quality-sec .logo-icon-right { width: 80px; }
+   .mob_wa { width: 40px; height: 40px; }
+   .mob_wa img { width: 25px; }
+   .whatpp-grp { bottom: 30px; right: 15px; }
+   footer .footer-div .footer-grp { margin-bottom: 18px; }
+   footer .footer-row { padding-top: 20px; margin-top: 20px; }
+   footer .footer-logo-grp .footer-logo:after { height: 40px; }
+   footer .footer-logo-grp .footer-logo { width: 70px; }
+   .header .button , .button ,.border-button , .footer-div .button { padding: 11px 20px; }
+   .header.active .button { padding: 8px 15px;}
+   .footer-div .button { margin-bottom: 0px;}
+   .quality-bx { margin-bottom: 30px; }
+   body p { margin-bottom: 15px;}
+   .instagram-section .insta-text li { width: 45%; font-size: 16px; }
+   .instagram-section .insta-text li a { width: 100%; text-align: center; margin-left: 0px; justify-content: center; margin-top: 5px;  font-size: 15px; }
+   .header.active .header-logo { height: 42px; }
+   .what-no-grp ul li a { font-size: 12px; }
+   .what-no-grp ul li a .svg { width: 15px; }
+   .py-80, .gallery-sec.py-80, .py-90 { padding-top: 40px; padding-bottom: 40px; }
+   .gallery-row li a { border-radius: 12px; }
+   .copy { padding: 10px 0px; }
+   .right-text, .right-text span, .design-text, .design-text a { font-size: 11px; }
+   .contcat-sec .contcat-grp.location-grp p br { display: none;}
+   .contcat-sec .title-grp .title { font-size: 22px; }
+   .contcat-sec .title-grp img { height: 50px; }
+   .contcat-sec .contcat-grp { display: block; margin-right: 0px; margin-bottom: 15px; }
+   .location-div { width: 100%; }
+   .location-icon img { width: 33px; }
+   .addres-grp2 { top:38% }
+   .addres-grp1 { top:25% }
+   .contcat-sec { padding: 30px 0px; }
+   .experience-sec .section-grp { margin-bottom: 20px; }
+   .exp-out-cont { padding: 10px 20px; }
+   .exp-list>li a.list-title { font-size: 15px; }
+   .exp-list>li .text-box p { font-size: 14px; }
+   .exp-location-grp .svg { height: 50px; }
+   .exp-location-grp .exp-location-title { font-size: 30px; }
+   .exp-out-cont { border-radius: 12px; }
+   .experience-sec { padding: 40px 0px; }
+   .exp-list>li .text-box .button { margin-top: 5px; padding: 10px 15px; }
+   .exp-list>li .text-box { padding: 8px 0px 5px; }
+   .exp-list>li a.list-title span.icon { width: 10px; }
+   .menu-page .section-title-grp { margin-bottom: 30px; }
+   .menu-page .menu-list-home.exp-list>li { margin-bottom: 20px; }
+   .download-menu .logo-icon-right { width: 70px; top:10px; }
+   .in-banner .banner-text .title br { display: none; }
+   .our-story-sec .section-grp p { font-size: 14px; }
+   .our-story-sec { padding: 40px 0px; }
+   .our-story-sec .section-grp { margin-bottom: 30px; }
+   .our-story-sec, .speciality-sec, .eat-sec { padding: 40px 0px; }
+   .drink-bx .drink-text .title { font-size: 25px; }
+   .news-bx { display: block;margin: 0px 40px; }
+   .news-cont .swiper-button-next, .news-cont .swiper-button-prev { width: 18px; height: 18px; }
+   .news-cont .swiper-button-next { right: 5px; }
+   .news-cont .swiper-button-prev { left: 5px; }
+   .irie-people-sec .people-img { margin-top: 30px; margin-bottom: -210px; }
+   .news-bx .news-logo { width: 100%; min-width: 100%; height: 150px; }
+   .news-bx .news-logo img { width: auto; height: 70%; }
+   .eat-sec .logo-icon-left { width: 70px; }
+   .drink-bx .drink-text .button { margin-top: 0px; }
+   .news-cont { margin-top: 10px; }
+   .irie-people-sec .people-img { border-radius: 12px; }
+   .event-list li .event-bx { border-radius: 12px; }
+   .events-cont .event-list li .event-bx .overlay-div { padding: 10px 10px; }
+   .events-cont .event-list li .event-bx .overlay-div .overlay-text .event-title { font-size: 16px; }
+   .ladies-night-menu { margin-top: 30px; }
+   .night-life-bx .img-bx { border-radius: 12px; }
+   .night-life-bx .when-bx { padding: 20px 20px; }
+   .ladies-night-menu .menu-grp .menu-title { font-size: 21px; margin-bottom: 12px; }
+   .ladies-night-menu .row { --bs-gutter-y: 20px; --bs-gutter-x: 20px; }
+   .ladies-night-menu .menu-grp p { font-size: 14px; }
+   .ladies-night-menu .section-title-grp p { font-size: 14px; }
+   .section-title-grp { margin-bottom: 22px; }
+   .ladies-night-pkg .pkg-row { --bs-gutter-x: 15px; --bs-gutter-y: 15px; }
+   .night-life-bx .when-bx { margin-bottom: 20px; }
+   .ladies-night-menu .section-title-grp .sub-title.sub-title2 { margin-bottom: 12px; }
+   .book-modal .modal-body { display: block; }
+   .book-modal .modal-body .modal-bg { width: 100%; height: auto; }
+   /* .book-modal .modal-body .modal-bg img { aspect-ratio: 1.1; } */
+   .book-modal .modal-body .modal-bg .mob-img { display:block; aspect-ratio: 1.8; object-position: bottom left; }
+   .book-modal .modal-body .modal-bg .desk-img { display:none; }
+   .book-modal .modal-content { padding: 15px; }
+   .book-modal .close-btn svg rect { fill: #ffffff; }
+   .book-modal .close-btn { top: 15px; right: 20px; }
+   .book-modal .modal-body .reservation-bx { width: 100%; }
+   .book-modal .modal-body .reservation-bx { padding: 20px 0px 10px 0px; }
+   .book-modal .modal-body .reservation-bx .sub-title { margin-bottom: 15px; }
+   .modal-dialog { max-width: 94%; margin-left: auto; margin-right: auto; }
+   .hamburger { margin-left: 15px; }
+   .book-modal .modal-body .reservation-bx .sub-title { font-size: 20px; }
+   .wrapper-dropdown { font-size: 13px; }
+   .wrapper-dropdown .dropdown li { height: 40px; }
+   .wrapper-dropdown { min-height: 40px; }
+   .reservation-bx .wrapper-dropdown { margin-bottom: 15px; }
+   .pkg-row li .pkg-bx { border-radius: 12px; }
+   .main-packages-bx .pkg-row { --bs-gutter-x: 15px; --bs-gutter-y: 15px; }
+   .feature-bx .section-title-grp { margin-bottom: 15px; }
+   .feature-bx { margin-bottom: 40px; }
+   .pkg-row li .pkg-bx { padding: 12px 10px; }
+   .events-cont .event-list li a { aspect-ratio: 1.2; }
+   .live-performance-bx { padding: 40px 0px; }
+   footer .footer-div p { line-height: 1; }
+   footer .footer-title { margin-bottom: 12px; }
+   footer .btn-grp { padding-top: 7px;}
+   .speciality-sec .quality-bx { padding: 0px 30px;}
+   .night-life-bx .sub-title.sub-title2.mob-title { margin-bottom: 20px; }
+   .catering-img { border-radius: 12px; }
+   .catering-page .section-title-grp { margin-bottom: 32px; }
+   .bookeddate:after, .timeformdivclass:after { width: 15px; height: 15px; background-size: 15px; }
+   .dropdownarrowclass:after { width: 15px; height: 15px; background-size: 12px; }
+   .subtitle3, .subtitle3 span { font-size: 18px; }
+   .sub-title { font-size: 22px; }
+   .catering-form .form-group { margin-bottom: 20px; }
+   .about-sec.py-80 { padding-top: 10px; }
+   }
+   
+   @media screen and (max-width: 480px) 
+   {
+   .event-place li { text-align: center; display: inline-block; width: 49%; border-radius: 10px; margin-bottom: 0px; position: relative; height: 100%; padding: 20px 10px; }
+   .event-place li .place-bx .number { text-align: center; }
+   .event-place { display: flex; grid-gap: 15px; }
+   .event-place li .place-bx { display: block; text-align: center; }
+   .order-city-bx { border-radius: 10px; }
+   .order-city-bx .event-place-name { font-size: 16px; }
+   .event-place li .place-bx .event-place-name { font-size: 16px; margin-bottom: 8px; }
+   .event-place li .place-bx .number { font-size: 15px; margin-bottom: 8px; }
+   .event-place li .place-bx .place-icon { height: 53px; margin-right: 0px; margin-bottom: 10px; }
+   .event-place li .place-bx .button { padding: 9px 15px; }
+   .button img,.button .svg,.border-button img,.border-button .svg { width: 9px; }
+   .event-place li .place-bx .btn-dir { justify-content: center; }
+   .quality-bx .quality-text .quality-title { font-size: 18px; }
+   footer .input-group .border-button { margin-left: 10px !important; }
+   footer .input-group { margin-bottom: 20px }
+   footer .footer-logo-grp .footer-subtitle { font-size: 12px; }
+   .time-list li { font-size: 12px; }
+   footer .footer-div .quick-links li { padding-right: 15px; margin-right: 15px; margin-bottom: 3px; }
+   footer .footer-div .quick-links li a { line-height: 1; }
+   footer .footer-div .quick-links li a, footer .footer-div p, footer .footer-div .time-list li { font-size: 12px; }
+   footer .footer-title { font-size: 14px; }
+   .instagram-section .insta-text li a .svg { font-size: 13px; }
+   .event-list li .event-bx .overlay-div .overlay-text .event-location { font-size: 13px; }
+   .logo-icon-left, .logo-icon-right { width: 90px; }
+   .header .logo-icon { height: 28px; }
+   .event-list { grid-gap: 15px; }
+   .event-list li .event-bx , .secret-of-food .img-cont { border-radius: 12px; }
+   .what-sec.what-home-sec { padding: 35px 0px; }
+   .menu-list-home.exp-list>li a.list-title .icon { height: 12px; width: 12px; }
+   .what-sec.what-home-sec { padding: 40px 0px; }
+   .in-banner { border-bottom-left-radius: 40px; border-bottom-right-radius: 40px; height: 310px; }
+   .account-bx .insta-account-title { font-size: 12px; }
+   .account-bx.abudabi { margin-top: 40px; }
+   .gallery-row li a img.insta-icon { width: 20px; }
+   .social li a { height: 30px; width: 30px; }
+   .address-info { width: 174px; right: 71%; padding: 12px 12px; border-radius: 12px; }
+   .address-info .title { font-size: 13px; }
+   .address-info p { font-size: 12px; }
+   .address-info p br { display: none;}
+   .address-info a { font-size: 12px; }
+   .container { padding: 0px 15px; }
+   .contcat-sec .contcat-grp .con-title { font-size: 14px; }
+   .addres-grp span { font-size: 12px; }
+   .addres-grp1 .address-info { right: 100%; bottom: -9px; }
+   .contcat-sec .title-grp img { margin-right: 12px; }
+   .instagram-section .container { padding: 0px 0px;}
+   .sub-title.sub-title2 { margin-bottom: 15px; }
+   .exp-location-grp .exp-location-title { font-size: 25px; }
+   .experience-sec { padding: 30px 0px; }
+   .download-menu .sub-title { font-size: 20px; }
+   .download-menu .sub-title br { display: none; }
+   .download-menu .button-grp .border-button img { width: 16px; margin-left: 5px; }
+   .just-description .menu-desc-text .menu-title, .just-description .menu-desc-text .menu-title span { font-size: 18px; }
+   .just-description .menu-desc-text .menu-title { margin-bottom: 10px; }
+   .menu-page .section-title-grp { margin-bottom: 20px; }
+   .menu-page .menu-list-home.exp-list>li a.list-title { font-size: 18px; }
+   .just-description .menu-desc-text { margin-bottom: 20px; }
+   .menu-list li { margin-bottom: 10px; }
+   .row.quality-row { --bs-gutter-y: 30px; margin-top: 0px; }
+   .eat-sec .logo-icon-right { width: 80px; }
+   .eat-sec .logo-icon-bottom { width: 110px; bottom:-60px; }
+   .irie-people-sec .people-img { margin-bottom: -130px; }
+   .irie-people-sec { margin-bottom: 130px; }
+   .news-bx .news-text .news-title { font-size: 16px; margin-bottom: 12px; }
+   .quality-bx .quality-title { font-size: 13px; margin-bottom: 10px; }
+   .quality-bx .icon { height: 50px; }
+   .quality-bx .icon img { width: auto; height: 100%; object-fit: contain; }
+   .speciality-sec .logo-icon-right { width: 60px; }
+   .our-story-sec { padding: 35px 0px 50px 0px; }
+   .pkg-row li .pkg-bx { border-width: 2px; }
+   .night-life-bx-in { margin: 20px 0px; }
+   .main-packages-bx .sub-title.sub-title2 { margin-bottom: 25px; }
+   .ladies-night-menu .menu-grp .menu-title { font-size: 18px; margin-bottom: 8px; }
+   .night-life-bx .when-bx span { font-size: 18px; }
+   .testi-other-page { padding: 40px 0px 0px 0px; }
+   .events-cont .event-list { display: grid; grid-template-columns: repeat(2, 1fr); }
+   .main-packages-bx { padding: 0px 0px 30px 0px; }
+   .ladies-night-pkg { padding: 40px 0px; }
+   .live-performance-bx { padding: 35px 0px; }
+   .book-table-bx .logo-icon-left, .book-table-bx .logo-icon-right, .live-performance-bx .logo-icon-right, .live-performance-bx .logo-icon-left { width: 40px; }
+   .error-page .error-bx .error-title span { font-size: 80px; }
+   .error-page .error-bx .error-title .error-img { width: 70px; margin-top: -20px; }
+   .error-page .error-bx .subtitle { font-size: 22px; }
+   .error-page .error-bx .error-title { margin-bottom: 8px; }
+   .in-banner.error-page .error-bx p { font-size: 12px; }
+   .in-banner .banner-text { margin-top: 50px; }
+   .in-banner.error-page { padding: 90px 0px 60px 0px; }
+   .pkg-dec { margin-top:30px; }
+   .subtitle3 { margin-bottom: 20px; }
+   .py-80, .gallery-sec.py-80, .py-90 { padding-top: 35px; padding-bottom: 35px; }
+   .empty-div { display: inline-block;width: 2px;}
+   }
+   
+   
+   @media screen and (max-width: 375px) 
+   {
+   .banner-content .container { padding: 0px; }
+   .banner .banner-content .banner-text p { font-size: 14px; }
+   .button { padding: 11px 16px; }
+   .banner .banner-content .banner-text .button-grp .button { margin-left: 5px; margin-right: 5px; }
+   .about-sec .award-grp .sub-title { font-size: 14px; }
+   .sub-title { font-size: 22px; }
+   .logo-icon-right { width: 70px; }
+   .logo-icon-left { width: 70px; }
+   .reservation-sec .reservation-bx .sub-title { font-size: 20px; }
+   .reservation-bx button { margin-top: 20px; }
+   .testimonial-sec .sub-title { margin-bottom: 25px; }
+   .menu-list-home.exp-list>li .text-box .menu-list li p { font-size: 13px; }
+   .menu-list-home.exp-list>li a.list-title .icon { height: 12px; width: 12px; }
+   .event-list li .event-bx { height: 180px; }
+   .event-list li .event-bx .overlay-div .overlay-text .event-title { font-size: 16px; margin-bottom: 5px; }
+   .header .header-logo { height: 60px; }
+   .header.active .button { padding: 10px 25px; }
+   .header.active .button .svg { width: 7px; }
+   .reservation-bx { padding: 40px 10px; }
+   footer .input-group .border-button { margin-left: 0px!important; margin-top: 15px; }
+   .in-banner .banner-text .title { font-size: 30px; }
+   .in-banner { height: 260px; }
+   .gallery-sec .section-grp { margin-bottom: 20px; }
+   .gallery-row { display: grid; grid-template-columns: repeat(2, 1fr); }
+   .gallery-sec .btn-grp { margin-top: 30px; }
+   .in-banner { border-bottom-left-radius: 30px; border-bottom-right-radius: 30px; }
+   .in-banner .banner-img:after { height: 140px; }
+   .contcat-sec .contcat-grp p, .contcat-sec .contcat-grp a, .contcat-sec .contcat-grp ul li, .contcat-sec .contcat-grp ul li a, .contcat-sec .contcat-grp { font-size: 13px;} 
+   .footer-subtitle br { display: none;}
+   footer .footer-logo-grp .footer-logo { padding-right: 15px; margin-right: 15px; }
+   footer .footer-logo-grp .footer-logo:after { height: 33px; }
+   .addres-grp1 .address-info { right: 100%; bottom: -8px; }
+   .drink-bx .graphics-img { flex: 0 0 100px; margin-right: 20px; }
+   .pkg-row li .pkg-bx .night-title { font-size: 14px; }
+   .ladies-night-menu .row { --bs-gutter-y: 15px; --bs-gutter-x: 15px;  }
+   .event-performance.live-performance-bx:before { aspect-ratio: 1.7; }
+   .whatpp-grp { bottom: 20px; right: 25px; }
+   .subtitle3, .subtitle3 span { font-size: 18px; }
+   .catering-page .section-title-grp { margin-bottom: 25px; }
+   .social li { margin-right: 18px; }
+   .speciality-sec .quality-bx { padding: 0px 15px;}
+   .news-bx { display: block;margin: 0px 25px; }
+   .news-cont .swiper-button-next { right: -3px; }
+   .news-cont .swiper-button-prev { left: -3px; }
+   }
+
+   @media screen and (max-width: 360px)
+   { 
+   .location-icon img { width: 26px; }
+   .addres-grp span { font-size: 10px; }
+   .address-info { width: 150px; bottom: 53%; }
+   .addres-grp1 .address-info { right: 100%; bottom: -9px; }
+   .address-info p { font-size: 10px; }
+   .address-info a { font-size: 10px; }
+   .event-performance.live-performance-bx:before { aspect-ratio: 1.4; }
+ }
+
+ @media screen and (max-width: 320px)
+ {
+    .instagram-section .insta-text li { margin: 0px 5px;  }
+    .instagram-section .insta-text li a { font-size: 14px; }
+ }
